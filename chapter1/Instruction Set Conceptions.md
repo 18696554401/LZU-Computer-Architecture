@@ -22,7 +22,7 @@
  - 指令集所提供的操作类型;  
  - 操作数的类型和大小;
  我们一般关注CPU操作数的存储方式：如Z=X+Y表达式在这三种类型指令集结构上的实现方法
- ![](images/shixianfangfa.PNG)
+ ![](images/shixianfangfa.PNG)  
  在这三种类型的指令集机构中我们一般又最关心寄存器型指令结构而寄存器机构又可以进一步划分为
  - 寄存器——寄存器型（R——R：register-register）
  - 寄存器——存储器型（R——M：register-memory）
